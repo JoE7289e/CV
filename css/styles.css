@@ -11,6 +11,14 @@ h1{
   margin-bottom: 0;
 
 }
+h1:hover{
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 100px;
+  margin-bottom: 0;
+  color:#D72323; 
+
+}
 .sub-header{
   position: absolute;
   right: 580px;
